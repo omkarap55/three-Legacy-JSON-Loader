@@ -1,1 +1,1 @@
-# nodeJs-Wrapper-LegacyJSONLoader-threejs
+# three-Legacy-JSON-Loader
