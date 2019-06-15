@@ -1,0 +1,15 @@
+{
+  "name": "three-legacyjsonloader",
+  "version": "1.0.0",
+  "description": "NodeJs Wrapper for Three.js' LegacyJSONLoader function.",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.105.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "omi",
+  "license": "MIT"
+}
