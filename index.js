@@ -2,11 +2,11 @@
  * @author mrdoob / http://mrdoob.com/
  * @author alteredq / http://alteredqualia.com/
  */
-const THREE = require('three');
 
-exports.LegacyJSONLoader = (function () {
 
-    function LegacyJSONLoader(manager) {
+module.exports = function (THREE) {
+
+    THREE.LegacyJSONLoader = function (manager) {
 
         if (typeof manager === 'boolean') {
 
@@ -21,7 +21,7 @@ exports.LegacyJSONLoader = (function () {
 
     }
 
-    Object.assign(LegacyJSONLoader.prototype, {
+    Object.assign(THREE.LegacyJSONLoader.prototype, {
 
         crossOrigin: 'anonymous',
 
@@ -574,7 +574,6 @@ exports.LegacyJSONLoader = (function () {
 
     });
 
-    return LegacyJSONLoader;
+    return THREE.LegacyJSONLoader;
 
-})();
-
+}
