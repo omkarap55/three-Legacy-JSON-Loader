@@ -1,6 +1,6 @@
 {
   "name": "three-legacyjsonloader",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "NodeJs Wrapper for Three.js' LegacyJSONLoader function.",
   "main": "index.js",
   "dependencies": {},
@@ -8,6 +8,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "omi",
+  "keywords": ["three","legacy", "json", "loader","npm","json-loader"],
+  "author": {
+    "name":"omkar",
+    "email": "omkarap55@gmail.com"
+  },
   "license": "MIT"
 }
