@@ -1,6 +1,5 @@
 # three-Legacy-JSON-Loader
 A node package to parse THREE Js Json files on server side.
-By default Three Js does not have LegacyJSONLoader. This is nodeJs wrapper for LegacyJSONLoader library.
 ## Install
 ```bash
 npm install three-legacyjsonloader

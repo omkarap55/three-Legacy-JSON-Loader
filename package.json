@@ -1,7 +1,7 @@
 {
   "name": "three-legacyjsonloader",
-  "version": "1.0.4",
-  "description": "NodeJs Wrapper for Three.js' LegacyJSONLoader function.",
+  "version": "1.0.5",
+  "description": "A node package to parse THREE Js Json files on server side.",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {
