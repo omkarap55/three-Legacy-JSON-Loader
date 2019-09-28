@@ -16,7 +16,9 @@
     "json",
     "loader",
     "npm",
-    "json-loader"
+    "json-loader",
+    "legacyjsonloader",
+    "jsonloader"
   ],
   "author": {
     "name": "omkar",
