@@ -8,9 +8,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["three","legacy", "json", "loader","npm","json-loader"],
+  "keywords": [
+    "three",
+    "legacy",
+    "json",
+    "loader",
+    "npm",
+    "json-loader"
+  ],
   "author": {
-    "name":"omkar",
+    "name": "omkar",
     "email": "omkarap55@gmail.com"
   },
   "license": "MIT"
