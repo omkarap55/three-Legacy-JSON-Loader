@@ -2,8 +2,7 @@
  * @author mrdoob / http://mrdoob.com/
  * @author alteredq / http://alteredqualia.com/
  */
-
-
+// trial
 module.exports = function (THREE) {
 
     THREE.LegacyJSONLoader = function (manager) {
